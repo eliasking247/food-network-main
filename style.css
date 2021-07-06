@@ -27,3 +27,23 @@ section{
     border-radius: 25px;
    
 }
+.midle-section{
+ display: flex;
+
+
+}
+.middle{
+    text-align: right;
+    
+    width: 100%;
+     padding-left: 50%;
+     
+}
+
+.responsive{
+    text-align: right;
+    margin: 50px ;
+    width: 100%;
+
+  
+}
