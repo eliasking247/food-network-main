@@ -1,7 +1,6 @@
-
-font{
+.font{
     font-family:'Oswald',sans-serif;
-  font-size:larger;
+  font-size: larger;
     }
 h1{
     font: 100px;
@@ -12,10 +11,15 @@ h1{
 h2{
 text-align;
 font-family:'Oswald', sans-serif;
-font-size:50px;
+font-size: 50px;
 }
- text-align:center
-font-size:larger 
+
+
+    text-align:center
+    font-size:larger
+
+
+   
 }
 
 section{
@@ -55,12 +59,16 @@ margin: 0px auto;
     padding: 0%;
     box-sizing: border-box;
 }
+.last-description{
+    text-align:top[];
+    padding-left: 50%;
+}
 .last-pera{
     background-color:white;
     font-family:'Oswald', sans-serif;
-margin-top: 5% ;
+margin-top: 10% ;
 }
-.last-pera h3{
+.last-pera h2{
     margin-bottom: 60px;
     text-align: center;
 }
@@ -69,26 +77,10 @@ margin-top: 5% ;
     text-align: center;
     width: auto;
     justify-content: center;
-
 }
-
-
-.food-diet{
+.food.food_diet{
     background: white;
     margin: 5px;
     margin-bottom: 50px;
-
-   line-height: 20px;
-   color: white;
-  
-}
-.food.food-diet h3{
-color: tomato;
-font-size: 25px;
-
-}
-.footer-section{
-  background:black
-    text-align center
-    
+    width: 300px;
 }
