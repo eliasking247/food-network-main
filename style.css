@@ -1,6 +1,7 @@
-.font{
+
+font{
     font-family:'Oswald',sans-serif;
-  font-size: larger;
+  font-size:larger;
     }
 h1{
     font: 100px;
@@ -11,15 +12,10 @@ h1{
 h2{
 text-align;
 font-family:'Oswald', sans-serif;
-font-size: 50px;
+font-size:50px;
 }
-
-
-    text-align:center
-    font-size:larger
-
-
-   
+ text-align:center
+font-size:larger 
 }
 
 section{
