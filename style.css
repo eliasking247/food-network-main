@@ -39,9 +39,6 @@ margin: 0px auto;
     background-image: url(shape/bck-b.png); 
     opacity: 1; width: 1930px; height: 480px;
     background-repeat: no-repeat;
+    padding-left: 0px auto;
     
-    margin: 0px;
-    padding: 0px;
-    opacity: 5px;
-   
 }
