@@ -5,11 +5,21 @@
 h1{
     font: 100px;
 }
-h2{
-    text-align: center;
-}
 .orange-color{
-color: orange;
+    color: orange;
+
+h2{
+text-align:
+font-family:'Oswald', sans-serif;
+font-size: 50px;
+}
+
+
+    text-align:center
+    font-size:larger
+
+
+   
 }
 
 section{
@@ -42,3 +52,10 @@ margin: 0px auto;
     padding-left: 0px auto;
     
 }
+
+.last-pera{
+    text-align:center;
+    padding-right:10px;
+    margin-left: 25%;
+}
+
